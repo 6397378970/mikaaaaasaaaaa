@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot token - environment variable se lelo
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8674194296:AAGqxTPggfH52IyefdVP8565SFOJcmspOwI")
 
 # Premium animated emoji ke saath welcome message
 WELCOME_MESSAGE = """
